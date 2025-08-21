@@ -1,0 +1,26 @@
+.btn {
+  height: 100px;
+  width: 100px;
+  background: linear-gradient(135deg, #00cec9, #0984e3);
+  border-radius: 50%;
+  cursor: pointer;
+  opacity: 1;
+}
+
+.toast {
+  height: 100px;
+  width: 100px;
+  background: linear-gradient(135deg, #00cec9, #0984e3);
+  border-radius: 50%;
+  cursor: pointer;
+  opacity: 1;
+}
+
+.card {
+  height: 100px;
+  width: 100px;
+  background: linear-gradient(135deg, #00cec9, #0984e3);
+  border-radius: 50%;
+  cursor: pointer;
+  opacity: 1;
+}
